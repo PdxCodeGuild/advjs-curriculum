@@ -6,7 +6,7 @@ Take a look at [CLI.md](./CLI.md) to make sure you are comfortable on the comman
 
 If you want to brush up on your javascript, the following readings are from a great book (it's also free) called "Eloquent Javascript".
 
-Higher Order Functions - https://eloquentjavascript.net/05_higher_order.html
-Modules - https://eloquentjavascript.net/10_modules.html
-async - https://eloquentjavascript.net/11_async.html
-DOM - https://eloquentjavascript.net/14_dom.html
+- Higher Order Functions - https://eloquentjavascript.net/05_higher_order.html
+- Modules - https://eloquentjavascript.net/10_modules.html
+- Async - https://eloquentjavascript.net/11_async.html
+- DOM - https://eloquentjavascript.net/14_dom.html
