@@ -6,7 +6,6 @@
 
 **Note to future instructors**: this is [Evan Hackett](https://github.com/evanhackett)'s version of the course, which is fairly different from previous versions. If you are going to teach this course, you should also take a look at [Zack Kollar's version of the course](https://github.com/PdxCodeGuild/AdvancedJavascriptCourse).
 
-**Note to students**: This course 
 
 ## Course Overview
 
