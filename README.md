@@ -11,6 +11,8 @@
 
 For the official description, as well as official prerequisites, see [official-course-description.md](./official-course-description.md).
 
+For more info about the course, see the week 0 docs, starting with [Week 0 Overview](./week-0/week-0-overview.md).
+
 ### Rough outline
 
 1. Javascript Crash Course
