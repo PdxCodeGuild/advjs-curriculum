@@ -15,15 +15,15 @@ For more info about the course, see the [week 0 docs](./week-0), starting with [
 
 ### Rough outline
 
-1. Javascript Crash Course
-2. Bringing Javascript to the Server (Node)
-3. Bringing Node to the Browser (Browserify)
-4. Backend Frameworks (Express)
-5. Frontend Frameworks (React)
-6. State Management (Redux)
-7. Mongodb + Putting It All Together (MERN Stack)
-8. Sharing Your Projects With the World (Deployment)
-9. Capstone + Misc. Topics
+1. [Javascript Crash Course](./week-1-overview.md)
+2. [Bringing Javascript to the Server (Node)](./week-2-overview.md)
+3. [Bringing Node to the Browser (Browserify)](./week-3-overview.md)
+4. [Backend Frameworks (Express)](./week-4-overview.md)
+5. [Frontend Frameworks (React)](./week-5-overview.md)
+6. [State Management (Redux)](./week-6-overview.md)
+7. [Mongodb + Putting It All Together (MERN Stack)](./week-7-overview.md)
+8. [Sharing Your Projects With the World (Deployment)](./week-8-overview.md)
+9. [Capstone + Misc. Topics](./week-9-11-overview.md)
 
 Please note that these aren't the only topics that will be covered, these are just the main themes for each week. Many other topics will be covered throughout the course when appropriate.
 
