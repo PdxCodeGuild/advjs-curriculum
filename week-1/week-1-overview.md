@@ -22,7 +22,7 @@ Understanding these concepts will be foundational for everything else we do in t
 
 * higher order functions
 * introduce lodash and the idea of utility libraries
-* Activity: implement map, filter, and other underscore/lodash utility functions from scratch
+* Activity: [Building a Utility Belt](./bat-belt.md)
 
 ### Day 3
 
@@ -47,4 +47,4 @@ Understanding these concepts will be foundational for everything else we do in t
   * promises vs callbacks
   * async utility modules
     * async, Parseq, axios, etc.
-* Activity: implement async utility functions from scratch
+* Activity: [Async Tool-Belt](./async-utility.md)
