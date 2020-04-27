@@ -6,7 +6,7 @@ The most important feature of javascript, by far, is the [closure](https://en.wi
 
 But to understand closures, we must first understand higher order functions.
 
-After that we will learn about the asyncronous model of javascript, and how it differs from synchronous programming.
+After that we will learn about the second most important aspect of javascript: the asyncronous programming model, and how it differs from synchronous programming.
 
 Understanding these concepts will be foundational for everything else we do in this course.
 
