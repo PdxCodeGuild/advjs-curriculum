@@ -15,7 +15,7 @@ Understanding these concepts will be foundational for everything else we do in t
 ### Day 1
 
 * Set expectations + intro to course lecture
-* Activity: [Javascript Koans](https://github.com/mrdavidlaing/javascript-koans)
+* Activity: [Javascript Koans](./koans.md)
 
 
 ### Day 2
@@ -31,7 +31,7 @@ Understanding these concepts will be foundational for everything else we do in t
 
 ### Day 4
 
-* Continue Crockford Function Challenges if you didn't finish on Day 3
+* Continue Crockford Function Challenges if we didn't finish on Day 3
 * If we finish with time to spare
   * Lecture on trees and recursion
   * Activity: 
