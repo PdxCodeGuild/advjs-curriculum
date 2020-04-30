@@ -28,6 +28,7 @@ Understanding these concepts will be foundational for everything else we do in t
 
 * Closures
 * Crockford Function Challenges
+  * See [function challenge spec file](./function-challenge-spec.js)
 
 ### Day 4
 
