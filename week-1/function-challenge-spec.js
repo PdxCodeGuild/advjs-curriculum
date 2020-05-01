@@ -146,6 +146,14 @@ describe("to", function() {
     expect(index()).toEqual(1);
     expect(index()).toEqual(2);
     expect(index()).toEqual(undefined);
+    
+    const generator = to(from(5), 10)
+    expect(generator()).toEqual(5)
+    expect(generator()).toEqual(6)
+    expect(generator()).toEqual(7)
+    expect(generator()).toEqual(8)
+    expect(generator()).toEqual(9)
+    expect(generator()).toEqual(undefined)
   });
 })
 
