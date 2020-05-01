@@ -10,8 +10,6 @@ Other async libraries continue to be common due to the way they handle the contr
 
 **I'd like this activity to be done in pairs.**
 
-Before going on to implement, first play around with some of the async utilities to get a feel for what they are offering.
-
 Check out and play around with the following:
 
 * [async](https://caolan.github.io/async/v3/) - library of async utility functions
