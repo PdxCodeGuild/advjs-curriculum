@@ -21,8 +21,10 @@ Check out and play around with the following:
 
 Then implement the following functions
 
+* [Parallel](https://caolan.github.io/async/v3/docs.html#parallel)
+  * This is similar to Parseq's [Parallel](https://caolan.github.io/async/v3/docs.html#parallel)
 * [waterfall](https://caolan.github.io/async/v3/docs.html#waterfall)
-  * This is essentially equivalent to Parseq's [Sequence](https://github.com/douglascrockford/parseq#sequence)
+  * This is similar to Parseq's [Sequence](https://github.com/douglascrockford/parseq#sequence)
 * [map](https://caolan.github.io/async/v3/docs.html#map)
 
 
