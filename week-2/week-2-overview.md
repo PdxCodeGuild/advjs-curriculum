@@ -19,7 +19,7 @@ Week 2 is all about Node. The technology, the community, the philosophy, etc.
 * Lecture: npm (Node Package Manager)
 * Activities
   * Complete Node School's [How to npm](https://github.com/workshopper/how-to-npm)
-  * Publish a "hello world" package to npm (or whatever you want) and try installing it
+  * Publish a "hello world" package (can do whatever you want) to npm and try installing it
     * everyone post theirs on slack
     * try installing and running someone else's module
   * finish day 1 activities if you haven't yet
