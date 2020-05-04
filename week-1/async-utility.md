@@ -25,6 +25,8 @@ Then implement the following functions
   * This is similar to Parseq's [Sequence](https://github.com/douglascrockford/parseq#sequence)
 * [map](https://caolan.github.io/async/v3/docs.html#map)
 
+Testing setup as well as function stubs can be found in [async-workshop](./async-workshop)
+
 
 After completing those, feel free to play around more and/or implement more functions from either async or Parseq.
 
