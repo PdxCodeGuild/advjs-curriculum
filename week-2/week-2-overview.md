@@ -16,6 +16,8 @@ Week 2 is all about Node. The technology, the community, the philosophy, etc.
 
 ### Day 2
 
+**Important note**: starting today everyone is required to conform to a standard style. Please install [Standard JS](https://standardjs.com/index.html) on your system (see [install instructions](https://standardjs.com/index.html#install)), as well as the [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs).
+
 * Lecture: npm (Node Package Manager)
 * Activities
   * Complete Node School's [How to npm](https://github.com/workshopper/how-to-npm)
