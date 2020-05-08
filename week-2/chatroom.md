@@ -27,7 +27,7 @@ It will be up to you to design a scheme for saving messages to files. Consider t
 * Should every message have its own file?
 * Should every message be appended to one file?
 * What metadata should we store along with the message (date/time, etc.)?
-* What format should we store data (one line per message, JSON, etc.)?
+* What format should we store data (one line per message, csv, JSON, etc.)?
 
 ### Testing
 
