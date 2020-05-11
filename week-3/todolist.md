@@ -25,6 +25,7 @@ If it has been a while since you have done html stuff, you should probably flesh
 * When added to the page, the todo item should have a button for marking it as done/completed
 * When clicking on the done button, the todo item should be visually marked as completed
   * strikethrough, color it with CSS, move it to a different section, whatever you want
+* Each todo item should also have a delete button for removing it from the list
 * There should be 3 buttons for controlling/filtering the display
   * A button for filtering out the completed todos
   * A button for filtering out the non-completed todos
