@@ -2,6 +2,10 @@
 
 This assignment will be building off of last weeks Chat Room project. The idea is to add a frontend to last weeks backend.
 
+## Starter Files
+
+Starter files to go off of are provided [here](./chatroom-phase2-starter)
+
 ## Requirements
 
 ### Functionality Requirements
