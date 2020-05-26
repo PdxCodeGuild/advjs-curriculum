@@ -1,0 +1,48 @@
+# Week 5 - Frontend Frameworks (React)
+
+In this section of the course we build off of the modular UI concepts we've briefly seen from yo-yo by learning the React framework.
+
+
+## Rough outline
+
+### Day 1
+
+* No class (Memorial Day)
+
+
+### Day 2
+
+* Topic: Intro to React
+* Activity: follow the [official React tutorial](https://reactjs.org/tutorial/tutorial.html)
+  * Make sure you setup the local development environment using create-react-app
+
+
+### Day 3
+
+* Topic: Anatomy of a Modern React Stack (Tooling)
+  * Lecture on Babel, JSX, Webpack, create-react-app, and modern React ecosystem in general
+    * warning: may include rants about needless complexity
+    * see the brilliant article [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+* Activity: Refactor an existing app to use a different module system and bundler
+  * instead of browserify with babelify, use webpack with babel
+  * instead of CommonJS modules (`require`), use ES6 modules (`import`)
+
+### Day 4
+
+* Activity: [Course Project Phase 4](./chatroom4.md)
+
+
+### Day 5
+
+* Continue Course Project
+
+## Docs
+
+Check out the following for more info:
+
+* [React official homepage](https://reactjs.org/)
+* [JSX](./docs/JSX.md)
+* [Components](./docs/components.md)
+* [The Virtual DOM](./docs/vdom.md)
+* [Webpack](./docs/webpack.md)
+* [create-react-app](./docs/CRA.md)
