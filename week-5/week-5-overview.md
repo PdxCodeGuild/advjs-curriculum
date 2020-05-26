@@ -15,6 +15,10 @@ In this section of the course we build off of the modular UI concepts we've brie
 * Topic: Intro to React
 * Activity: follow the [official React tutorial](https://reactjs.org/tutorial/tutorial.html)
   * Make sure you setup the local development environment using create-react-app
+  * When finished, work on making the following changes:
+    * Simplify the time-travel feature to just be Undo/Redo buttons
+    * When the game is over, present a "Play again?" button, and automatically restart the game if they click it
+    * Before the game starts, ask if X or O should get the first move 
 
 
 ### Day 3
