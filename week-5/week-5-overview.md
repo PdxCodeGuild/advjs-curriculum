@@ -34,6 +34,9 @@ In this section of the course we build off of the modular UI concepts we've brie
 * Activity: Refactor an existing app to use a different module system and bundler
   * instead of browserify with babelify, use webpack with babel
   * instead of CommonJS modules (`require`), use ES6 modules (`import`)
+  * instead of create-react-app, roll your own
+* This should prepare you for setting up react apps and integrating react into existing projects
+  * this will not only be useful in the "real world", but also for this week's course project assignment, as well as your capstone projects
 
 ### Day 4
 
