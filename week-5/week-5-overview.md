@@ -24,6 +24,7 @@ In this section of the course we build off of the modular UI concepts we've brie
   * notice the use of `map` to go from an array of data to an array of components
   * notice the similarity between JSX and yo-yo's tagged template strings
   * notice how create-react-app bundles the javascript files and adds the ability for us to use a module system in the browser
+  * notice how React uses a State -> DOM architecture instead of keeping state in the DOM nodes
 
 ### Day 3
 
