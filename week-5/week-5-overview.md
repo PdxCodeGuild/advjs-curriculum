@@ -32,12 +32,8 @@ In this section of the course we build off of the modular UI concepts we've brie
   * Lecture on Babel, JSX, Webpack, create-react-app, and modern React ecosystem in general
     * warning: may include rants about needless complexity
     * see the brilliant article [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
-* Activity: Refactor an existing app to use a different module system and bundler
-  * instead of browserify with babelify, use webpack with babel
-  * instead of CommonJS modules (`require`), use ES6 modules (`import`)
-  * instead of create-react-app, roll your own
-* This should prepare you for setting up react apps and integrating react into existing projects
-  * this will not only be useful in the "real world", but also for this week's course project assignment, as well as your capstone projects
+* Activity: [Build System From Scratch Lab](./lab)
+
 
 ### Day 4
 
