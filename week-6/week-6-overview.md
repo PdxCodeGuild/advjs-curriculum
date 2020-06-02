@@ -12,6 +12,7 @@ The second purpose of this week is to gain additional practice with React in gen
 
 ### Day 2
 
+* finish up lab + solutions presentation 
 * Topic: Routing
 * Activity: routing lab
 
