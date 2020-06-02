@@ -20,7 +20,7 @@ For more info about the course, see the [week 0 docs](./week-0), starting with [
 3. [Bringing Node to the Browser (Browserify)](./week-3/week-3-overview.md)
 4. [Backend Frameworks (Express)](./week-4/week-4-overview.md)
 5. [Frontend Frameworks (React)](./week-5/week-5-overview.md)
-6. [State Management (Redux)](./week-6/week-6-overview.md)
+6. [Single Page Applications (Routing + More React)](./week-6/week-6-overview.md)
 7. [Mongodb + Putting It All Together (MERN Stack)](./week-7/week-7-overview.md)
 8. [Sharing Your Projects With the World (Deployment)](./week-8/week-8-overview.md)
 9. [Capstone + Misc. Topics](./week-9-11/week-9-11-overview.md)

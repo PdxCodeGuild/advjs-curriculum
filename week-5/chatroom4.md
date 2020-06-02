@@ -1,4 +1,4 @@
-# Chat Room - Phase 3
+# Chat Room - Phase 4
 
 In this phase of the project, we will refactor our old chatroom server to use React on the fronted.
 
