@@ -21,6 +21,9 @@ The second purpose of this week is to gain additional practice with React in gen
 ### Day 3
 
 * Activity: continue routing lab
+* Extra: extend the routing lab in the following ways:
+  * add express backend for saving todos
+  * style your page with CSS (this will be good practice for capstone!)
 
 ### Day 4
 
