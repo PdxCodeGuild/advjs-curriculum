@@ -14,6 +14,14 @@ In this phase of the project, we will add a routing system to the UI of the chat
   * The signup page should present a form for signing up a new user (as opposed to logging in an existing one)
     * the form should collect email, username, and password
     * submitting this form should redirect to the home page
+* create a "welcome" page (a home page) that greets the user and has a room selection for entering a room
+  * this page will be shown on the `/` route
+  * entering a room will redirect to the corresponding page `/rooms/<roomname>`
+* The rooms page should display the chat log for that room, as well as a form for submitting messages to that room
+  * also include a "back" button to get back to home (`/`)
+* create a header with a "log out" button. This header should appear in all main pages.
+  * include the username in the header
+  * if they are not logged in, display a "log in" button instead
 
 ## Notes
 
