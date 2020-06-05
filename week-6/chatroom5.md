@@ -27,7 +27,7 @@ In this phase of the project, we will add a routing system to the UI of the chat
 
 ## Resources
 
-* check out the [URL Parameters](https://reacttraining.com/react-router/web/example/url-params) page in the react-routers docs. This will be useful for rendering dynamic routes such (`/rooms/<roomname>`)
+* check out the [URL Parameters](https://reacttraining.com/react-router/web/example/url-params) page in the react-routers docs. This will be useful for rendering dynamic routes such as `/rooms/<roomname>`
 * For redirection, there are multiple options.
   * the [useHistory](https://reacttraining.com/react-router/web/api/Hooks/usehistory) hook is an easy way to dynamically trigger a redirect
 
