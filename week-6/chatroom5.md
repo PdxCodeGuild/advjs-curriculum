@@ -25,6 +25,12 @@ In this phase of the project, we will add a routing system to the UI of the chat
   * if they are not logged in, display a "log in" button instead
 * don't get the username by simply calling `prompt` like we did before. Instead, the username should come from the login form.
 
+## Resources
+
+* check out the [URL Parameters](https://reacttraining.com/react-router/web/example/url-params) page in the react-routers docs. This will be useful for rendering dynamic routes such (`/rooms/<roomname>`)
+* For redirection, there are multiple options.
+  * the [useHistory](https://reacttraining.com/react-router/web/api/Hooks/usehistory) hook is an easy way to dynamically trigger a redirect
+
 ## Notes
 
 Next week we will have the app authenticate/authorize users using proper security measures. For now, we are just fleshing out what the behavior will look like.
