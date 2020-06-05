@@ -23,6 +23,7 @@ In this phase of the project, we will add a routing system to the UI of the chat
 * create a header with a "log out" button. This header should appear in all main pages.
   * include the current user's username in the header next to the logout button
   * if they are not logged in, display a "log in" button instead
+* don't get the username by simply calling `prompt` like we did before. Instead, the username should come from the login form.
 
 ## Notes
 
