@@ -22,3 +22,7 @@ Now you have seen enough Mongo to cover all of the basic CRUD operations.
 Interacting with the shell is often the fastest and easiest way to get something done. It also helps us understand how Mongo works. However, we want to be able to write these CRUD operations as part of a script file or an application.
   
 * Follow the [official Node.js quick start guide](https://mongodb.github.io/node-mongodb-native/3.4/quick-start/quick-start/)
+
+## Applying what you have learned
+
+* Make a simple Todo-List app using Express, React, and MongoDB
