@@ -15,6 +15,9 @@ This week we will also learn about authentication and authorization. This will a
 * Enforcing Schemas with Mongoose
 * Authentication and Authorization
   * User Systems 
+* Resources:
+  * [Mongoose docs](https://mongoosejs.com/docs/index.html)
+  * More on [JSON Web Tokens](https://jwt.io/introduction/)
 
 ### Day 3
 
