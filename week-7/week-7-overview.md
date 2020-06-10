@@ -18,6 +18,7 @@ This week we will also learn about authentication and authorization. This will a
 * Resources:
   * [Mongoose docs](https://mongoosejs.com/docs/index.html)
   * More on [JSON Web Tokens](https://jwt.io/introduction/)
+  * [bcrypt](https://github.com/kelektiv/node.bcrypt.js#readme)
 
 ### Day 3
 
