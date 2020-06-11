@@ -1,4 +1,4 @@
-# Chat Room - Phase 5
+# Chat Room - Phase 6
 
 In this phase of the project, you will refactor the backend to use MongoDB instead of simply writing to a text file.
 
