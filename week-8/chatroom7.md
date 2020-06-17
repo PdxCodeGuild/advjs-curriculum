@@ -59,6 +59,7 @@ Choose GCP for similar reasons to AWS.
 
 * You will probably not want to run the create-react-app in watch/dev mode. Look at [CRA's deployment docs](https://create-react-app.dev/docs/deployment/)
   * You will need to make sure you are serving the static files
+  * [This tutorial](https://daveceddia.com/deploy-react-express-app-heroku/) walks through how to set that up with Heroku
 * Make sure to setup MongoDB. You could consider using a separate service for this. 
   * Heroku will require a separate service, as it is not a VPS so you cannot simply run `mongod` like you would in a VPS. 
     * [mLab MongoDB](https://devcenter.heroku.com/articles/mongolab) should work well for this
