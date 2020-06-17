@@ -71,6 +71,7 @@ Choose GCP for similar reasons to AWS.
 * Start with something simple like a "Hello World" app
   * this will greatly simplify the deployment process since there won't be any complex build steps, environment variables to setup, or a database
 * After that, try deploying something more complex like the chat app (something that has a database at least)
+* Please share docs with each other! I'm sure you all will find awesome tutorials and useful docs pages
 
 ## Extra Credit
 
