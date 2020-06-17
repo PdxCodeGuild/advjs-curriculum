@@ -66,6 +66,7 @@ Choose GCP for similar reasons to AWS.
   * this goes for API keys, credentials, etc. as well
   * For more, see [The Twelve-Factor App - Config](https://12factor.net/config)
   * With Heroku, see [Configuration and Config Vars docs](https://devcenter.heroku.com/articles/config-vars)
+* You may want to grab the port from an environment var as well. Heroku will supply the port through the "PORT" env var, so it won't let you pick a port arbitrarily.
 
 ## More Advice
 
@@ -85,3 +86,4 @@ Pick from the following:
 * try out one of the other deployment platforms
 * set up a domain name
 * learn about docker and deploy the project as a container
+* set up a firewall if you set up a VPS
