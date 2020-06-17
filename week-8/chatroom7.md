@@ -66,6 +66,12 @@ Choose GCP for similar reasons to AWS.
   * For more, see [The Twelve-Factor App - Config](https://12factor.net/config)
   * With Heroku, see [Configuration and Config Vars docs](https://devcenter.heroku.com/articles/config-vars)
 
+## More Advice
+
+* Start with something simple like a "Hello World" app
+  * this will greatly simplify the deployment process since there won't be any complex build steps, environment variables to setup, or a database
+* After that, try deploying something more complex like the chat app (something that has a database at least)
+
 ## Extra Credit
 
 Pick from the following:
