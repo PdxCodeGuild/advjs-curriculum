@@ -78,6 +78,7 @@ Choose GCP for similar reasons to AWS.
 
 Pick from the following:
 
+* set up SSL (https)
 * set up [continous deployment](https://en.wikipedia.org/wiki/Continuous_deployment)
   * basically this means to automate the deployment process so when new changes in the code repository are committed, the project will automatically deploy with the new changes
   * lots of tutorials for this sort of thing online. If you find a good one share it with the class!
