@@ -94,3 +94,7 @@ Pick from the following:
 * set up a firewall if you set up a VPS
 * set up some type of monitoring
   * for VPS, check out [PM2](https://pm2.keymetrics.io/)
+
+## Further Reading
+
+If you like this sort of thing, there is a whole sub-field called "Devops" and "Site Reliability Engineering" to look into. [Google puts out some great free books](https://landing.google.com/sre/books/) on this topic. I read "Site Reliability Engineering" in particular and I would recommend it to anyone who likes this side of the computing industry (also just a fascinating peek into how Google operates).
