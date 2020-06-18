@@ -92,3 +92,5 @@ Pick from the following:
 * try out one of the other deployment platforms
 * learn about docker and deploy the project as a container
 * set up a firewall if you set up a VPS
+* set up some type of monitoring
+  * for VPS, check out [PM2](https://pm2.keymetrics.io/)
