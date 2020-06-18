@@ -68,6 +68,9 @@ Choose GCP for similar reasons to AWS.
   * For more, see [The Twelve-Factor App - Config](https://12factor.net/config)
   * With Heroku, see [Configuration and Config Vars docs](https://devcenter.heroku.com/articles/config-vars)
 * You may want to grab the port from an environment var as well. Heroku will supply the port through the "PORT" env var, so it won't let you pick a port arbitrarily.
+* if you are going with a bare-bones VPS, you should look into using an enterprise-ready web server such as [Nginx](https://nginx.org/) or [Caddy](https://caddyserver.com/)
+  * you can use these to set up a [reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy) to proxy requests to your node apps
+  * you can also use Nginx/Caddy to serve static files, set up load-balancing, and more
 
 ## More Advice
 
