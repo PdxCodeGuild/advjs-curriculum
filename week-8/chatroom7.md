@@ -71,6 +71,7 @@ Choose GCP for similar reasons to AWS.
 * if you are going with a bare-bones VPS, you should look into using an enterprise-ready web server such as [Nginx](https://nginx.org/) or [Caddy](https://caddyserver.com/)
   * you can use these to set up a [reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy) to proxy requests to your node apps
   * you can also use Nginx/Caddy to serve static files, set up load-balancing, and more
+  * for setting up Caddy, I found [this tutorial](https://www.digitalocean.com/community/tutorials/how-to-host-a-website-with-caddy-on-centos-7) useful, though you may want to look for a tutorial that matches your linux distro (although many of the steps should be similar)
 
 ## More Advice
 
