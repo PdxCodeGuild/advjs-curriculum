@@ -10,7 +10,7 @@
 
 ### Intro to Scrum and Agile
 
-Early on this week there will be a lecture on Scrum, Agile, and workflow methodologies.
+Early on this week there will be a lecture on Scrum, Agile, and workflow methodologies. [Link to slides here](https://docs.google.com/presentation/d/1PTsVK6mFDWiOsRlo8DDm-mUMlqTDkExH3YGMnCjKodI/edit?usp=sharing).
 
 * Decide how to break the team into roles
   * 1 Product owner
