@@ -18,3 +18,10 @@ Either way, prepare for both styles by reviewing these questions and practicing 
 
 * What is the difference between state and props?
 * Why do we use `setState` instead of just updating the state directly?
+
+## Security
+
+* What is a XSS (cross site scripting) attack?
+* What is a CSRF (cross site request forgery)?
+* What is a JWT (JSON web token)?
+
