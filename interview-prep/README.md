@@ -14,11 +14,15 @@ Either way, prepare for both styles by reviewing these questions and practicing 
 
 * What is a closure?
 * What are cookies?
+* What is a Promise?
+* Explain asynchronous programming
+* Explain DOM event bubbling
 
 ## React
 
 * What is the difference between state and props?
 * Why do we use `setState` instead of just updating the state directly?
+* Compare React and <other framework you have worked with>.
 
 ## Security
 
