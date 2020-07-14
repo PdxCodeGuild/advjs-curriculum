@@ -22,7 +22,7 @@ Either way, prepare for both styles by reviewing these questions and practicing 
 
 * What is the difference between state and props?
 * Why do we use `setState` instead of just updating the state directly?
-* Compare React and <other framework you have worked with>.
+* Compare React with another framework you have worked with
 
 ## Security
 
