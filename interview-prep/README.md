@@ -13,6 +13,7 @@ Either way, prepare for both styles by reviewing these questions and practicing 
 ## Javascript
 
 * What is a closure?
+* What are cookies?
 
 ## React
 
