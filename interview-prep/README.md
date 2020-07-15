@@ -23,6 +23,7 @@ Either way, prepare for both styles by reviewing these questions and practicing 
 * What is the difference between state and props?
 * Why do we use `setState` instead of just updating the state directly?
 * Compare React with another framework you have worked with
+* What are Hooks?
 
 ## Security
 
@@ -30,3 +31,9 @@ Either way, prepare for both styles by reviewing these questions and practicing 
 * What is a CSRF (cross site request forgery)?
 * What is a JWT (JSON web token)?
 
+## Backend
+
+* Why is it important to use asynchronous functions in Node?
+  * For example, why do we prefer `fs.readFile` over `fs.readFileSync`?
+* Compare Mongo with a relational SQL database
+* What is REST? What is a REST API?
