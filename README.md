@@ -34,6 +34,7 @@ Other topics we may cover include:
 * Test-Driven Development
 * Web Sockets
 * Agile and Scrum
+* Data Structures (trees, stacks, space/time complexity, etc.)
 * And much more!
 
 See individual sections for more info.
