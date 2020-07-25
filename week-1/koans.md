@@ -12,7 +12,7 @@ However, javascript has since added enough utility functions to the array protot
 
 ### Your task
 
-Rewrite all your code in AboutApplyingWhatWeHaveLearnt.js to use javascript's native functions instead of unerscore functions.
+Rewrite all your code in AboutApplyingWhatWeHaveLearnt.js to use javascript's native functions instead of underscore functions.
 
 Take a look at the [Array docs on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#) to see what methods are available.
 
