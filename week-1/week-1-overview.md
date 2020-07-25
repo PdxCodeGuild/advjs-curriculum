@@ -22,7 +22,7 @@ Understanding these concepts will be foundational for everything else we do in t
 
 * higher order functions
 * introduce lodash and the idea of utility libraries
-* Activity: [Building a Utility Belt](./bat-belt.md)
+* Activity: [Building a Utility Belt](https://github.com/PdxCodeGuild/bat-belt)
 
 ### Day 3
 
