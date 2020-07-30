@@ -44,7 +44,4 @@ Understanding these concepts will be foundational for everything else we do in t
   * what is it
   * examples
   * the "event loop" explained
-  * promises vs callbacks
-  * async utility modules
-    * async, Parseq, axios, etc.
 * Activity: [Async Tool-Belt](./async-utility.md)
