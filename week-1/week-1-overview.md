@@ -44,4 +44,4 @@ Understanding these concepts will be foundational for everything else we do in t
   * what is it
   * examples
   * the "event loop" explained
-* Activity: [Async Tool-Belt](./async-utility.md)
+* Activity: [Async Tool-Belt](https://github.com/PdxCodeGuild/async-workshop)
