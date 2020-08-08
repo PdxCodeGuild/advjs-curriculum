@@ -45,3 +45,17 @@ To test your server, there are a few options. Each has its own tradeoffs.
 * make a simple frontend page (html + js) that will send http requests to the server
   * your frontend script could either append results to the DOM, or just log out the response
   * you could also have a frontend testing framework like we've seen in previous weeks to test the response
+
+## Extra Credit
+
+Here are some ideas to take the application further:
+
+* Store additional data with each message
+  * username field, date, etc.
+* create a simple html page
+  * there should be a display section that displays all messages
+  * there should be a form for submitting new messages
+  * your server should serve the static files (html, css, js)
+* better error handling
+  * respond properly to bad requests, such as 404s
+* Write automated tests using [tape](https://github.com/substack/tape)
