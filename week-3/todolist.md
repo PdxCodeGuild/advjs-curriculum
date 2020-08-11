@@ -11,6 +11,7 @@ You will want to use the browser-native DOM functions for reading/writing to the
 * [document.createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
 * [Node.appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
 * [Node.removeChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)
+* [onclick](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onclick)
 
 Feel free to use other native DOM methods as well, but the above list should be enough.
 
