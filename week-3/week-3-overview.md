@@ -28,7 +28,7 @@ Main topics:
 
 ### Day 3
 
-* Lecture: Single Page Applications, Routing, and Modular UI
+* Lecture: Modular UI Components
 * Activity: [Todo List 2](./todolist2.md)
 
 ### Day 4
