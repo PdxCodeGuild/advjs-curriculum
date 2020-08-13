@@ -30,4 +30,3 @@ Starter files to go off of are provided [here](./chatroom-phase2-starter)
 * use [yo-yo](https://github.com/maxogden/yo-yo) for UI components
 * write tests
   * how much to test is up to you
-  * although you should at least test core functionality
