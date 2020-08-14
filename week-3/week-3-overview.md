@@ -22,14 +22,13 @@ Main topics:
 
 ### Day 2
 
-* Lecture: Intro to Testing
-* Activity: Add tests to Todo List app
-* Extra credit: add tests to course project from last week (backend API tests) 
+* Activity: finish up the Todo List
+* Extra: try to write tests for your Todo List app
 
 
 ### Day 3
 
-* Lecture: Single Page Applications, Routing, and Modular UI
+* Lecture: Modular UI Components
 * Activity: [Todo List 2](./todolist2.md)
 
 ### Day 4
