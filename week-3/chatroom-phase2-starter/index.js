@@ -1,10 +1,12 @@
 const http = require('http')
 const fs = require('fs')
 const path = require('path')
-const st = require('st')
-const Router = require('http-hash-router')
+const st = require('st') // st is a useful module to make serving static files easier
+const Router = require('http-hash-router') // this module makes defining HTTP routes easier
 
 const port = 8000
+
+// TODO: make sure to create this file. This is where messages will be stored.
 const MESSAGES_PATH = './messages.txt'
 
 const mount = st({ path: path.join(__dirname, '/static'), url: '/static' })
@@ -38,6 +40,8 @@ function postMessage (req, res) {
     console.log(data)
 
     // TODO: write code here to add the message to the messages file
+    // hint: use fs.appendFile
+    // make sure to separate each entry with a newline character
 
     // After writing to the file, we need to send up a response
     res.statusCode = 200
@@ -49,8 +53,10 @@ function postMessage (req, res) {
 // this function should respond with the list of messages
 function getMessages (req, res) {
   // TODO: write code here to get your messages from the file
+  // hint: use fs.readFile
+  // you will need to split on newlines, filter out empty strings, and JSON.parse each object
 
-  // here is an example of how your messages might be formatted
+  // here is an example of how your messages should be formatted after parsing them out from the file
   const exampleMessages = [
     { text: 'hello! This is an example message.', date: new Date() },
     { text: 'This is another message.', date: new Date() }
@@ -73,4 +79,4 @@ const server = http.createServer((req, res) => {
 
 server.listen(port)
 
-console.log('Server listening on port:', port)
+console.log('server listening on port:', port)

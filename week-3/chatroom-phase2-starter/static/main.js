@@ -1,4 +1,6 @@
-console.log('hello world!')
+// to GET and POST messages, we use javascript's built-in function "fetch"
+// fetch returns a "promise", which is a fancy object representing an asynchronous computation
+// We call ".then" and ".catch" on the promise object where we can register success and error callbacks respectively.
 
 function postMessage (text) {
   console.log('posting message')
@@ -23,6 +25,8 @@ function getMessages () {
     .then(data => console.log(data))
 }
 
-postMessage('hello')
+// here is an example of how to send a POST request using the postMessage function:
+// postMessage('hello')
 
-//getMessages()
+// here we call getMessages because the first thing we want to do when loading the page is get all previous messages.
+getMessages()
