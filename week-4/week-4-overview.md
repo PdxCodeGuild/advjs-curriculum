@@ -16,6 +16,7 @@ After that, we will learn about web sockets and how they can be used to help us 
 
 * Topic: Intro to Express
 * Activity: Node School's [expressworks](https://github.com/azat-co/expressworks)
+* Extra credit: use Express to create a backend for your Todo List app from last week
 
 
 ### Day 3
