@@ -9,3 +9,17 @@ In this phase of the project, we will refactor our old chatroom server to use th
   * Instead, clients should be notified of new messages through an event system over web sockets
 * Backend should still save messages to a file. Messages from that file should be served upon client connection
 * If you haven't already, add the rooms feature and the username feature
+
+## Hints + Tips
+
+* before adding web sockets, start by refactoring the backend to use express
+* check out the docs for the following features:
+  * [serving static files](https://expressjs.com/en/starter/static-files.html)
+  * [basic routing](https://expressjs.com/en/starter/basic-routing.html)
+* don't make any changes to your frontend files until you get the express backend working
+  * this will allow you to test your backend by using your old frontend
+* once you get the old frontend working with the new express backend, now it's time to add web sockets
+  * remove the setInterval, we no longer want to poll the server for chat messages. Instead, we want to be notified of new messages using web sockets
+  * refer to the [socket.io tutorial from yesterday](https://socket.io/get-started/chat/) to see how to emit events and setup event listeners
+  * to send a message using web sockets instead of HTTP: replace the POST request with `socket.emit`
+  * to listen for message events instead of making a GET request: use `socket.on`
