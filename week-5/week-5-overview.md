@@ -5,14 +5,11 @@ In this section of the course we build off of the modular UI concepts we've brie
 
 ## Rough outline
 
+
 ### Day 1
 
-* No class (Memorial Day)
-
-
-### Day 2
-
-* Topic: Intro to React
+* Solution lecture to chatroom phase 3
+* Intro to React
 * Activity: follow the [official React tutorial](https://reactjs.org/tutorial/tutorial.html)
   * Make sure you setup the local development environment using create-react-app
   * When finished, work on making the following changes:
@@ -25,6 +22,10 @@ In this section of the course we build off of the modular UI concepts we've brie
   * notice the similarity between JSX and yo-yo's tagged template strings
   * notice how create-react-app bundles the javascript files and adds the ability for us to use a module system in the browser
   * notice how React uses a State -> DOM architecture instead of keeping state in the DOM nodes
+
+### Day 2
+
+* more React fundamentals
 
 ### Day 3
 
