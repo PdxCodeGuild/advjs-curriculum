@@ -18,6 +18,7 @@ In this phase of the project, we will refactor our old chatroom server to use th
   * [basic routing](https://expressjs.com/en/starter/basic-routing.html)
 * for getting the data out of a POST request, check out the [express.json() middleware](https://expressjs.com/en/4x/api.html#express.json)
   * check out [this article](https://codewithhugo.com/parse-express-json-form-body/#) to see example usage
+  * here's a [good stack overflow answer](https://stackoverflow.com/a/10007542/2254887) which demonstrates how to use the `express.json` middleware
 * don't make any changes to your frontend files until you get the express backend working
   * this will allow you to test your backend by using your old frontend
 * once you get the old frontend working with the new express backend, now it's time to add web sockets
