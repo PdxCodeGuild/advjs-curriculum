@@ -10,6 +10,7 @@ In this section of the course we build off of the modular UI concepts we've brie
 
 * Solution lecture to chatroom phase 3
 * Intro to React
+  * counter example
 * Activity: follow the [official React tutorial](https://reactjs.org/tutorial/tutorial.html)
   * Make sure you setup the local development environment using create-react-app
   * When finished, work on making the following changes:
