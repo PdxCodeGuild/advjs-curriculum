@@ -8,7 +8,7 @@ This should prepare you for setting up react apps and integrating react into exi
 
 ## Step 1
 
-refactor the existing project. 
+refactor the [existing project](https://github.com/PdxCodeGuild/build-system-from-scratch). 
 
 1. change bundler from browserify to webpack
   * figure out how to run webpack in watch mode
