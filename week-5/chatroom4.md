@@ -16,3 +16,4 @@ In this phase of the project, we will refactor our old chatroom server to use Re
   * the trick is to configure create-react-app to forward requests to the server pointed to by the "proxy" option
   * essentially you will add a line to the package.json that looks something like this: `"proxy": "http://localhost:8000",`
   * official docs here: [Proxying API Requests in Development](https://create-react-app.dev/docs/proxying-api-requests-in-development/)
+* Also check out the docs for [creating forms in react](https://reactjs.org/docs/forms.html#gatsby-focus-wrapper)
