@@ -14,9 +14,7 @@ The second purpose of this week is to gain additional practice with React in gen
 
 * finish up lab + solutions presentation 
 * Topic: Routing
-* Activity: routing lab
-  * implement the [todolist lab from week 3](./../week-3/todolist2.md) including the routing feature
-    * only this time use React, and use [react-router](https://reacttraining.com/react-router/web/guides/quick-start) for routing
+* Activity: [routing lab](./todolist-react.md)
 
 ### Day 3
 
