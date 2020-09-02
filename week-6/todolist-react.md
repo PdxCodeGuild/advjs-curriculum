@@ -15,5 +15,7 @@ In this lab we create a todo-list app using React a client-side routing library 
 
 ## Hints + Tips
 
+* don't worry about the back end. Just work on the frontend. Extra credit can be creating an express backend to save the messages
+* generate the frontend with create-react-app
 * react-router has a lot features. For this lab though, you probably only really need the stuff covered in the [Basic example](https://reactrouter.com/web/example/basic)
 * similar to the structure of the chat app, you will probably want a parent component that keeps track of the todolist state
