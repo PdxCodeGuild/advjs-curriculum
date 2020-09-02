@@ -33,3 +33,8 @@ This week we will also learn about authentication and authorization. This will a
 ### Day 5
 
 * Continue course project
+
+## More Resources
+
+* [Great article about JWTs](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#persistance) including best practices for persisting them
+  * definitely required reading if you are considering persisting sessions. Not required for any assignment in this course since we don't persist sessions.
