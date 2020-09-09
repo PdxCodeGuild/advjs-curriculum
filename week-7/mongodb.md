@@ -26,3 +26,9 @@ Interacting with the shell is often the fastest and easiest way to get something
 ## Applying what you have learned
 
 * Make a simple Todo-List app using Express, React, and MongoDB
+
+## Notes
+
+* If you want to specify which folder mongo uses to store data, run mongo like this: `mongod --dbpath=/data`
+  * replace `/data` with the path to your folder
+  * you can use this to have different folders for each project, if you want
