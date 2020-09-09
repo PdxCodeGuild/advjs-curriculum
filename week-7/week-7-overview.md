@@ -8,8 +8,6 @@ This week we will also learn about authentication and authorization. This will a
 
 ### Day 1
 
-#### Update: Labor day - no class today
-
 * [MongoDB assignment](./mongodb.md)
 
 ### Day 2
