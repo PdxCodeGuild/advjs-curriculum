@@ -16,10 +16,7 @@ This week we will also learn about authentication and authorization. This will a
 * Authentication and Authorization
   * User Systems 
 * Assignment: [Todo List Auth](./todo-list-auth.md)
-* Resources:
-  * [Mongoose docs](https://mongoosejs.com/docs/index.html)
-  * More on [JSON Web Tokens](https://jwt.io/introduction/)
-  * [bcrypt](https://github.com/kelektiv/node.bcrypt.js#readme)
+  
 
 ### Day 3
 
@@ -35,5 +32,11 @@ This week we will also learn about authentication and authorization. This will a
 
 ## More Resources
 
+* [Mongo Overview](mongo-overview.md)
+* [Mongoose Overview](mongoose-overview.md)
+* [Mongoose Relations](mongoose-relations.md)
+* [Mongoose docs](https://mongoosejs.com/docs/index.html)
+* More on [JSON Web Tokens](https://jwt.io/introduction/)
+* [bcrypt](https://github.com/kelektiv/node.bcrypt.js#readme)
 * [Great article about JWTs](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#persistance) including best practices for persisting them
-  * definitely required reading if you are considering persisting sessions. Not required for any assignment in this course since we don't persist sessions.
+  * definitely required reading if you are considering persisting sessions. **Not required** for any assignment in this course since we don't persist sessions.
