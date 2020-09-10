@@ -21,7 +21,7 @@ In this phase of the Todo List assignment, we add proper authentication/authoriz
 
 * definitely read the [Mongoose getting started guide](https://mongoosejs.com/docs/index.html)
 * start with the backend. Once you have the mongoose models and the express routes, then move on to the frontend
-* be careful with arrow functions in your mongoose model file! Binding `this` can cause your models to not refer to the proper `this`.
+* **be careful with arrow functions in your mongoose model file**! Binding `this` can cause your models to not refer to the proper `this`.
 
 ### useful curl commands for testing the backend routes
 
