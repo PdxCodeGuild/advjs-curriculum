@@ -5,7 +5,7 @@ There are multiple ways to emulate `relations` like you would in an `RDBMS` or `
 
 In a `SQL` database we have all sorts of powerful tools handle this natively, however it's not quite as simple for `NoSQL`.
 
-The easiest way to achieve this functionality with mongoose is store `ObjectIds` for each related document (as stated above) and use `virtuals` and the `populate` method to get the related documents.
+The easiest way to achieve this functionality with mongoose is store `ObjectIds` for each related document (as stated above) and use [virtuals](https://mongoosejs.com/docs/guide.html#virtuals) and the [populate](https://mongoosejs.com/docs/populate.html) method to get the related documents.
 
 **Example Schemas:**
 ```js
