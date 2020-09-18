@@ -62,7 +62,7 @@ Choose GCP for similar reasons to AWS.
   * [This tutorial](https://daveceddia.com/deploy-react-express-app-heroku/) walks through how to set that up with Heroku
 * Make sure to setup MongoDB. You could consider using a separate service for this. 
   * Heroku will require a separate service, as it is not a VPS so you cannot simply run `mongod` like you would in a VPS. 
-    * [mLab MongoDB](https://devcenter.heroku.com/articles/mongolab) should work well for this
+  * [Atlas](https://www.mongodb.com/cloud/atlas) might be the best option
   * For VPS, see [mongodb's installation docs](https://docs.mongodb.com/manual/administration/install-on-linux/)
 * For best security practices, your source code should not contain any private keys or "secrets". Especially if your source code is public on github. Put your secrets (for example, the secret when encoding the JWT) into environment variables.
   * this goes for API keys, credentials, etc. as well
