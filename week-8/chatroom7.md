@@ -4,7 +4,7 @@ In this phase of the project, you will deploy your project so it is publicly acc
 
 **Note: since this assignment is more about deployment, and less about the chat app specifically, you can deploy another project if you want to.** Perhaps you have a side-project or a project from the Python course that you want to deploy.
 
-There exists a spectrum of services available to deploy an app. On one end of the spectrum, we have a more bare-bones approach, where we use what is essentially just a linux distro that we can ssh into and do whatever they want with. On the other end of the spectrum, we have services that seek to automate much of the work that goes into setting up common deployment tasks, providing a deployment platform that is theoretically easier to use.
+There exists a spectrum of services available to deploy an app. On one end of the spectrum, we have a more bare-bones approach, where we use what is essentially just a linux distro that we can ssh into and do whatever we want with. On the other end of the spectrum, we have services that seek to automate much of the work that goes into setting up common deployment tasks, providing a deployment platform that is theoretically easier to use.
 
 The terms you might hear to describe these services are generally "Platfrom as a Service" (PaaS) and "Infrastructure as a Service" (IaaS). Where PaaS generally describes the more opinionated pre-configured options, and IaaS generally describes the more bare-bones virtual private server (VPS) offerings.
 
