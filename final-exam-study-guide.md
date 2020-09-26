@@ -12,7 +12,7 @@ On the final exam you may be asked to do various things from the following list:
 * demonstrate knowledge of state and props in react
 * create forms for gathering user input and submitting data
 * dynamically render data in response to events
-  * for example: by setting state and referring that state in JSX
+  * for example: by setting state and referring to that state in JSX
 * basic mongodb queries
 * integrate mongodb into the express app
 * create mongoose models and interact with mongo through mongoose
