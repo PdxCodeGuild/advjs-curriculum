@@ -17,6 +17,8 @@ On the final exam you may be asked to do various things from the following list:
 * integrate mongodb into the express app
 * create mongoose models and interact with mongo through mongoose
 * basic web socket usage
+* demonstrate understanding of the asynchronous nature of javascript
+  * callbacks, promises, etc.
 
 ## Helpful Hints
 
