@@ -19,6 +19,7 @@ On the final exam you may be asked to do various things from the following list:
 * basic web socket usage
 * demonstrate understanding of the asynchronous nature of javascript
   * callbacks, promises, etc.
+* use route parameters to extract values out of URLs
 
 ## Helpful Hints
 
