@@ -21,6 +21,7 @@ On the final exam you may be asked to do various things from the following list:
   * callbacks, promises, etc.
 * use route parameters to extract values out of URLs
 * use curl, postman, or web browser to send HTTP requests to test out routes on your server
+* use the split method to split strings on a given character
 
 ## Helpful Hints
 
