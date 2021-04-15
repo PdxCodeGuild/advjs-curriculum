@@ -35,3 +35,7 @@ Other topics we may cover include:
 * And much more!
 
 See individual sections for more info.
+
+### Weekly Readings/Videos
+
+There will also be optional (but encouraged!) weekly readings (and/or videos) to spark discussion and provide important context into this industry of software development. The index of readings can be found [here](./weekly-readings/index.md).
