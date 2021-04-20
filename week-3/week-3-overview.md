@@ -18,6 +18,7 @@ Main topics:
 * Resources
   * [browserify-handbook](https://github.com/browserify/browserify-handbook)
   * Node School [browserify-adventure](https://github.com/workshopper/browserify-adventure)
+  * [watchify](https://www.npmjs.com/package/watchify) - Update any source file and your browserify bundle will be recompiled on the spot
 
 
 ### Day 2
