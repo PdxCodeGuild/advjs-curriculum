@@ -30,3 +30,16 @@ Starter files to go off of are provided [here](./chatroom-phase2-starter)
 * use [yo-yo](https://github.com/maxogden/yo-yo) for UI components
 * write tests
   * how much to test is up to you
+
+### Message Data File Format
+
+Since everyone used a different data format in the previous chatrooom assignment, it will be useful to decide upon a common format we can all use going forward. The code provided in the started file has some comments that help walk through the implementation of storing the data. It assumes you will have the following format:
+
+```
+{"text":"hello! This is an example message.","date":"2020-05-15T02:05:15.596Z"}
+{"text":"This is another message.","date":"2020-05-15T02:05:15.596Z"}
+{"text":"test post message","date":"2020-05-15T02:05:15.596Z"}
+{"text":"test2","date":"2020-05-15T02:05:15.596Z"}
+```
+
+Notice each object is on its own line. This means we can easily add new messages by simply appending a new line to the file. Reading messages from the file will involve splitting the file on newlines, filtering out empty strings (these occur from calling `.split` when there are dangling newlines), and lasting `JSON.parse`ing each message (try using `.map`).
