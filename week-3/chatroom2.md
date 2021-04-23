@@ -33,7 +33,7 @@ Starter files to go off of are provided [here](./chatroom-phase2-starter)
 
 ### Message Data File Format
 
-Since everyone used a different data format in the previous chatrooom assignment, it will be useful to decide upon a common format we can all use going forward. The code provided in the started file has some comments that help walk through the implementation of storing the data. It assumes you will have the following format:
+Since everyone used a different data format in the previous chatrooom assignment, it will be useful to decide upon a common format we can all use going forward. The code provided in the starter file has some comments that help walk through the implementation of storing the data. It assumes you will have the following format for your .txt file where you store your messages:
 
 ```
 {"text":"hello! This is an example message.","date":"2020-05-15T02:05:15.596Z"}
