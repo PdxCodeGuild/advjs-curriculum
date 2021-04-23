@@ -42,4 +42,4 @@ Since everyone used a different data format in the previous chatrooom assignment
 {"text":"test2","date":"2020-05-15T02:05:15.596Z"}
 ```
 
-Notice each object is on its own line. This means we can easily add new messages by simply appending a new line to the file. Reading messages from the file will involve splitting the file on newlines, filtering out empty strings (these occur from calling `.split` when there are dangling newlines), and lasting `JSON.parse`ing each message (try using `.map`).
+Notice each object is on its own line. This means we can easily add new messages by simply appending a new line to the file. Reading messages from the file will involve splitting the file on newlines, filtering out empty strings (these occur from calling `.split` when there are dangling newlines), and lastly `JSON.parse`ing each message (try using `.map`).
