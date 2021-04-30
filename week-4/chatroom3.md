@@ -26,3 +26,6 @@ In this phase of the project, we will refactor our old chatroom server to use th
   * refer to the [socket.io tutorial from yesterday](https://socket.io/get-started/chat/) to see how to emit events and setup event listeners
   * to send a message using web sockets instead of HTTP: replace the POST request with `socket.emit`
   * to listen for message events instead of making a GET request: use `socket.on`
+* one difference between the socketio tutorial and how we have our stuff setup is that we are using browserify (meaning we can `require` the library instead of adding a script tag in the html). 
+  * however, this comes with a complication since socketio comes with both a server module and a client module
+  * to properly require the client module in your frontend, write `const io = require('./node_modules/socket.io/client-dist/socket.io.js')`
