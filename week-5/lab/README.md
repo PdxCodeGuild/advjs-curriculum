@@ -13,6 +13,8 @@ refactor the [existing project](https://github.com/PdxCodeGuild/build-system-fro
 1. change bundler from browserify to webpack
   * figure out how to run webpack in watch mode
     * check out the [webpack CLI docs](https://webpack.js.org/api/cli/)
+  * also change the npm scripts in the package.json file to use webpack
+    * `npm run watch` etc.
 2. use es6 modules instead of commonjs modules
   * [import docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   * [export docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
