@@ -31,10 +31,11 @@ In this section of the course we build off of the modular UI concepts we've brie
 
 ### Day 3
 
-* Topic: Anatomy of a Modern React Stack (Tooling)
+* Topic 1: Anatomy of a Modern React Stack (Tooling)
   * Lecture on Babel, JSX, Webpack, create-react-app, and modern React ecosystem in general
     * warning: may include rants about needless complexity
     * see the brilliant article [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+* Topic 2: Lifecycle methods and Hooks
 * Activity: [Build System From Scratch Lab](./lab)
 
 
