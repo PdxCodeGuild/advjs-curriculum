@@ -36,7 +36,9 @@ In this section of the course we build off of the modular UI concepts we've brie
     * warning: may include rants about needless complexity
     * see the brilliant article [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 * Topic 2: Lifecycle methods and Hooks
-* Activity: [Build System From Scratch Lab](./lab)
+* Activity 1: [Build System From Scratch Lab](./lab)
+* Activity 2: Refactor tic-tac-toe app to use hooks; no class components, functional components only
+  * [Hooks docs](https://reactjs.org/docs/hooks-intro.html)
 
 
 ### Day 4
