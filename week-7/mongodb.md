@@ -5,6 +5,7 @@
   
 * [install MongoDB](https://docs.mongodb.com/manual/administration/install-community/)
 * run `mongod` to start up the mongo database server
+  * note that the specific command to run will depend on your operating system and whether you want to run it as a service
 * in another shell, run `mongo` to start up a mongo client (it will connect to the server)
 
 * Go through the following guides (make sure you select "mongo shell" as the client type):
