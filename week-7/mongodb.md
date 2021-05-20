@@ -24,6 +24,17 @@ Interacting with the shell is often the fastest and easiest way to get something
   
 * Follow the [official Node.js quick start guide](https://mongodb.github.io/node-mongodb-native/3.4/quick-start/quick-start/)
 
+### What url do you use to connect to mongo?
+
+Usually it will be a combo of hostname + dbname. Example:
+
+```javascript
+const hostname = 'localhost'
+const databaseName = 'chatroom'
+
+const mongourl = `mongodb://${hostname}/${databaseName}`
+```
+
 ## Applying what you have learned
 
 * Make a simple Todo-List app using Express, React, and MongoDB
