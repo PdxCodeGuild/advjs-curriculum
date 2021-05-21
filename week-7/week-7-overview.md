@@ -37,6 +37,7 @@ This week we will also learn about authentication and authorization. This will a
 * [Mongoose Relations](mongoose-relations.md)
 * [Mongoose docs](https://mongoosejs.com/docs/index.html)
 * More on [JSON Web Tokens](https://jwt.io/introduction/)
+* [jsonwebtoken node module](https://www.npmjs.com/package/jsonwebtoken)
 * [bcrypt](https://github.com/kelektiv/node.bcrypt.js#readme)
 * [Great article about JWTs](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#persistance) including best practices for persisting them
   * definitely required reading if you are considering persisting sessions. **Not required** for any assignment in this course since we don't persist sessions.
