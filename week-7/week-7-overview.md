@@ -39,5 +39,6 @@ This week we will also learn about authentication and authorization. This will a
 * More on [JSON Web Tokens](https://jwt.io/introduction/)
 * [jsonwebtoken node module](https://www.npmjs.com/package/jsonwebtoken)
 * [bcrypt](https://github.com/kelektiv/node.bcrypt.js#readme)
+  * for those who are curious on choosing a cost factor for hashing: [Recommended # of rounds for bcrypt](https://security.stackexchange.com/questions/17207/recommended-of-rounds-for-bcrypt) has some good info
 * [Great article about JWTs](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#persistance) including best practices for persisting them
   * definitely required reading if you are considering persisting sessions. **Not required** for any assignment in this course since we don't persist sessions.
