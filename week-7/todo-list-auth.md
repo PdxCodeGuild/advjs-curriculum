@@ -56,3 +56,12 @@ TOKEN=$(curl -d '{"username":"bobby", "password":"123"}' -H "Content-Type: appli
 ```
 
 That will send the curl request to /login, then pipe the response object (which contains the jwt token) into jq. jq will then parse out the "token" field from the object, and assign it into the TOKEN var.
+
+
+### Note for windows powershell users using curl
+
+The following command is an example that works on windows powershell (strings need to be escaped differently on windows). Here we pass a json file to use as our json body for the post request:
+
+```bash
+curl.exe -d `@./userstorage.json -H "Content-Type: application/json" -X POST http://localhost:8000/signup
+```
