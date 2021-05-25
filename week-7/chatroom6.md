@@ -12,3 +12,7 @@ You will also add authentication and authorization for users.
 * login page should actually check if username/password is a match before logging them in
 * sign up page should actually create a user in the DB
 * When a user tries to visit the home page or a rooms page, redirect them to the login page if they aren't already logged in
+
+### Other stuff
+
+Check out [SocketIO JWT Auth node module](https://www.npmjs.com/package/socketio-jwt-auth) for forcing users to authenticate with jwt before connecting to the web socket.
